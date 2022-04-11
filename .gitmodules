@@ -1,0 +1,3 @@
+[submodule "7z"]
+	path = 7z
+	url = https://github.com/kornelski/7z
